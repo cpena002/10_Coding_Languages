@@ -1,0 +1,53 @@
+body {
+  background-image: url(http://www.publicdomainpictures.net/pictures/130000/velka/green-haze-background.jpg);
+}
+.notcarousel {
+  float:left;
+}
+img {
+  height: 150px;
+  /*display: flex;*/
+  /*float:left;*/
+  padding: 5px;
+  max-width: 240px;
+  max-height: 200px;
+}
+
+.new_img {
+  min-height: 200px;
+  max-height: 200px;
+}
+#php, #sharp {
+  height: 150px;
+  width: 175px;
+}
+
+p {
+  text-align: justify;
+  font-family: serif;
+}
+h1 {
+  background: 	#00FFFF;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 1px dashed black;
+}
+
+h2 {
+  text-align: center;
+  font-family: monospace;
+  font-weight: bolder;
+  color: red;
+  font-size: 55px;
+
+}
+.jumbotron {
+  /*background: white;*/
+  background-image: url(http://www.publicdomainpictures.net/pictures/130000/velka/green-haze-background.jpg);
+  margin: -10px;
+  margin-bottom: -45px;
+}
+/*.item{
+  max-width: 240px;
+}*/
